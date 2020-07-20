@@ -1,11 +1,17 @@
 # Push Notifications Presentation
 ## Bronnen
 Can I Use: https://caniuse.com/#search=notifications
+
 Google's officiële documentatie: https://developers.google.com/web/ilt/pwa/introduction-to-push-notifications
+
 Goede tutorial, werkte alleen niet op mac: https://medium.com/izettle-engineering/beginners-guide-to-web-push-notifications-using-service-workers-cb3474a17679
+
 Goede tutorial: https://medium.com/@abrar19/the-definitive-guide-to-push-notification-b2734c99e124
+
 Push notificatie met node en serviceworkers: https://www.youtube.com/watch?v=ggUY0Q4f5ok
+
 push notificatie met node en serviceworkers op Netlify: https://www.youtube.com/watch?v=2zHqTjyfIY8&t=318s
+
 Push op mobile: https://www.youtube.com/watch?v=9gGp-Y4kKQ4 
 
 
